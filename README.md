@@ -46,4 +46,4 @@
   <br>
   <br>
   <br>
-  <p align="left"> <img src="https://gpvc.arturio.dev/AntonioMDSantos" alt="Antonio Medeiros" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AntonioMDSantos" alt="Antonio Medeiros" /> </p>
