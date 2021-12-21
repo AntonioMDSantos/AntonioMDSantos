@@ -23,7 +23,7 @@
    --  Jogar jogos diversos.<br>
 --  💬 Se quiser mandar uma mensagem, sinta-se à vontade!<br>
 --  📧 Caso queira enviar um email, envie para tony-ms@hotmail.com<br>
---  📋 Veja meu <a href="https://docs.google.com/document/d/1qLhjhYykfkBj3k_qQa7Z_fTcg60PZpuZpXmEkjUcCdQ/edit?usp=sharing" target="_blank"> Curriculo</a><br>
+--  📋 Veja meu <a href="https://drive.google.com/file/d/1V-tHWr_ZXfYlxlW3vqbrl_rzIQfqY_Rq/view?usp=sharing" target="_blank"> Curriculo</a><br>
 --  ✉️ Link do meu <a href="https://www.linkedin.com/in/antoniomdsantoss/" target="_blank"> Linkedin</a>
 <br>
 <br>
