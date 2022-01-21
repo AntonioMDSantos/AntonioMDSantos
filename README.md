@@ -49,3 +49,6 @@ Sempre mantendo o foco! SEM PRESSA E SEM PAUSA, nao precisamos acelarar, basta n
   <br>
   <br>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=AntonioMDSantos" alt="Antonio Medeiros" /> </p>
+  
+  
+  ![Snake animation](https://github.com/danielbped/danieldbped/blod/output/github-contribution-grid-snake.svg)
