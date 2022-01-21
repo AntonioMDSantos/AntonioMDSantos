@@ -44,6 +44,7 @@ Sempre mantendo o foco! SEM PRESSA E SEM PAUSA, nao precisamos acelarar, basta n
   <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vuejs/vuejs-original.svg" alt="Vuejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Vuejs" width="40" height="40"/>
   <br>
   <br>
   <br>
