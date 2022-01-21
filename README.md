@@ -9,21 +9,22 @@
     </p>
     <p align="left">
   Atualmente moro em Jacareí/SP
-  E estou aprendendo sobre desenvolvimento em HTML e CSS para assim aprender a programar com JavaScript e me tornar um <b>Desenvolvedor Front-end</b>
+  Um dos meus desejos é entrar na area de desenvolvimento, e estou indo atras para isso! Sempre correndo atras e me empenhando, atualmente estou estudando Java, ja fiz alguns cursos de HTML, CSS, Javascript, GIT, entre outros, e atualmente estou no Java, e pretendo focar no Java web e mobile!
+Sempre mantendo o foco! SEM PRESSA E SEM PAUSA, nao precisamos acelarar, basta nao parar!
   </p>
   
 ## Meus interesses pessoais
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1625099472777.png" width="400px" />
---  😛💻 Estou fazendo faculdade de Analise e desenvolvimento de sistemas, curso no senai tambem informatica para internet, e estudando sobre Front-end a parte;<br>
+--  😛💻 Estou fazendo faculdade de Analise e desenvolvimento de sistemas, curso no senai tambem informatica para internet, e estou fazendo cursos a parte;<br>
 --  👜 Desde pequeno estou nessa area de tecnologia, antes apenas jogando, hoje em dia aprendendo a programar kkk;<br>
 --  👾 Meus hobbies são:<br>
-   --  Estudar sempre me aprimorando em HTML e CSS;<br>
+   --  Ouvir musicas;<br>
    --  Treinar na academia;<br>
    --  Jogar jogos diversos.<br>
 --  💬 Se quiser mandar uma mensagem, sinta-se à vontade!<br>
 --  📧 Caso queira enviar um email, envie para tony-ms@hotmail.com<br>
---  📋 Veja meu <a href="https://drive.google.com/file/d/1V-tHWr_ZXfYlxlW3vqbrl_rzIQfqY_Rq/view?usp=sharing" target="_blank"> Curriculo</a><br>
+--  📋 Veja meu <a href="https://drive.google.com/file/d/1s7oM7EIEvd_0u5o1StBKSi8oACDrxAWU/view" target="_blank"> Curriculo</a><br>
 --  ✉️ Link do meu <a href="https://www.linkedin.com/in/antoniomdsantoss/" target="_blank"> Linkedin</a>
 <br>
 <br>
