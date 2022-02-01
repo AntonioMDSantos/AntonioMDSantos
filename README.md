@@ -26,8 +26,8 @@ Sempre mantendo o foco! SEM PRESSA E SEM PAUSA, nao precisamos acelerar, basta n
 --  📋 Veja meu <a href="https://drive.google.com/file/d/1s7oM7EIEvd_0u5o1StBKSi8oACDrxAWU/view" target="_blank"> Curriculo</a><br>
 
 
---  Email:   [![Gmail Badge](https://img.shields.io/badge/-Email-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tony-ms@hotmail.com)](tony-ms@hotmail.com)
---  Linkedin:    [![Linkedin Badge](https://img.shields.io/badge/-Antonio%20Medeiros-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/antoniomdsantoss/)](https://www.linkedin.com/in/antoniomdsantoss/) 
+--  Email:   [![Gmail Badge](https://img.shields.io/badge/-Email-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tony-ms@hotmail.com)](tony-ms@hotmail.com) <br>
+--  Linkedin:    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/antoniomdsantoss/)](https://www.linkedin.com/in/antoniomdsantoss/) 
 <br>
 <br>
 <br>
