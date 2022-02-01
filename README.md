@@ -23,9 +23,10 @@ Sempre mantendo o foco! SEM PRESSA E SEM PAUSA, nao precisamos acelerar, basta n
    --  Treinar na academia;<br>
    --  Jogar jogos diversos.<br>
 --  💬 Se quiser mandar uma mensagem, sinta-se à vontade!<br>
---  📧 Caso queira enviar um email, envie para tony-ms@hotmail.com<br>
 --  📋 Veja meu <a href="https://drive.google.com/file/d/1s7oM7EIEvd_0u5o1StBKSi8oACDrxAWU/view" target="_blank"> Curriculo</a><br>
 
+
+--  Email:   [![Gmail Badge](https://img.shields.io/badge/-tony-ms@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tony-ms@hotmail.com)](mailto:tony-ms@hotmail.com)
 --  Linkedin:    [![Linkedin Badge](https://img.shields.io/badge/-Antonio%20Medeiros-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/antoniomdsantoss/)](https://www.linkedin.com/in/antoniomdsantoss/) 
 <br>
 <br>
