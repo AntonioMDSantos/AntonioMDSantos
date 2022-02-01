@@ -1,3 +1,4 @@
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
 <h1 align="center"> Sejam bem vindos </h1>
 <br />
          </a><br />
@@ -25,7 +26,7 @@ Sempre mantendo o foco! SEM PRESSA E SEM PAUSA, nao precisamos acelerar, basta n
 --  💬 Se quiser mandar uma mensagem, sinta-se à vontade!<br>
 --  📧 Caso queira enviar um email, envie para tony-ms@hotmail.com<br>
 --  📋 Veja meu <a href="https://drive.google.com/file/d/1s7oM7EIEvd_0u5o1StBKSi8oACDrxAWU/view" target="_blank"> Curriculo</a><br>
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+
 <br>
 <br>
 <br>
