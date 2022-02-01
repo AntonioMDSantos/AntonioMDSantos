@@ -25,7 +25,7 @@ Sempre mantendo o foco! SEM PRESSA E SEM PAUSA, nao precisamos acelerar, basta n
 --  💬 Se quiser mandar uma mensagem, sinta-se à vontade!<br>
 --  📧 Caso queira enviar um email, envie para tony-ms@hotmail.com<br>
 --  📋 Veja meu <a href="https://drive.google.com/file/d/1s7oM7EIEvd_0u5o1StBKSi8oACDrxAWU/view" target="_blank"> Curriculo</a><br>
---  ✉️ [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniomdsantoss/)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniomdsantoss/)
 <br>
 <br>
 <br>
