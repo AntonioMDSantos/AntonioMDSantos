@@ -23,7 +23,7 @@ Sempre mantendo o foco! SEM PRESSA E SEM PAUSA, nao precisamos acelerar, basta n
    --  Treinar na academia;<br>
    --  Jogar jogos diversos.<br>
 --  💬 Se quiser mandar uma mensagem, sinta-se à vontade!<br>
---  📋 Veja meu <a href="https://drive.google.com/file/d/1s7oM7EIEvd_0u5o1StBKSi8oACDrxAWU/view" target="_blank"> Curriculo</a><br>
+--  📋 Veja meu <a href="https://drive.google.com/file/d/1azVO8-rQrVCiSzsmgFIJ3PigbShBikNN/view?usp=sharing" target="_blank"> Curriculo</a><br>
 
 
 --  Email:   [![Gmail Badge](https://img.shields.io/badge/-Email-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tony-ms@hotmail.com)](tony-ms@hotmail.com) <br>
