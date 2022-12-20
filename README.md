@@ -16,7 +16,7 @@ Sempre mantendo o foco! SEM PRESSA E SEM PAUSA, nao precisamos acelerar, basta n
 ## Meus interesses pessoais
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1625099472777.png" width="400px" />
---  😛💻 Estou fazendo faculdade de Analise e desenvolvimento de sistemas, curso no senai tambem informatica para internet, e estou fazendo cursos a parte;<br>
+--  😛💻 Terminei a faculdade de Analise e desenvolvimento de sistemas, junto ao curso no senai tambem informatica para internet;<br>
 --  👜 Desde pequeno estou nessa area de tecnologia, antes apenas jogando, hoje em dia aprendendo a programar kkk;<br>
 --  👾 Meus hobbies são:<br>
    --  Ouvir musicas;<br>
