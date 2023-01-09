@@ -9,7 +9,7 @@
     </p>
     <p align="left">
   Atualmente moro em Jacareí/SP
-  Um dos meus desejos é entrar na area de desenvolvimento, e estou indo atras para isso! Sempre correndo atras e me empenhando, atualmente estou estudando Java, ja fiz alguns cursos de HTML, CSS, Javascript, GIT, entre outros, e atualmente estou no Java, e pretendo focar no Java web e mobile!
+  Estou cada vez mais desenvolvendo meus conhecimentos em determinadas linguagens, para assim estar em uma empresa boa, e estou indo atras para isso! Sempre correndo atras e me empenhando, atualmente estou estudando mais Node, ja fiz alguns cursos de HTML, CSS, Javascript, GIT, entre outros, e atualmente estou no Node, e pretendo focar no desenvolvimento Backend
 Sempre mantendo o foco! SEM PRESSA E SEM PAUSA, nao precisamos acelerar, basta nao parar!
   </p>
   
