@@ -53,4 +53,4 @@ Sempre mantendo o foco! SEM PRESSA E SEM PAUSA, nao precisamos acelerar, basta n
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=AntonioMDSantos" alt="Antonio Medeiros" /> </p>
   
   
-  ![Snake animation](https://github.com/AntonioMDSantos/AntonioMDSantos/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/AntonioMDSantos/AntonioMDSantos/blob/output/github-contribution-grid-snake.svg) -->
