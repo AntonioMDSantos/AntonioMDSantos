@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=AntonioMDSantos" alt="Antonio Medeiros" />    
 </div>         
 <div align="center">
-<img src="https://cdn.pixabay.com/animation/2022/10/11/03/16/03-16-38-134_512.gif" style="width: 50vh"></img>
+<img src="https://media.tenor.com/8fBJbQU7lwoAAAAj/welcome-text.gif" style="width: 30vh"></img>
 </div>
 <br>
 <br>
