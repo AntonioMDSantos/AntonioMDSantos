@@ -42,7 +42,6 @@ Gosto de transformar ideias em código e acredito que tecnologia boa é aquela q
 </p>
 
 ---
-
 ## 💡 Sobre mim
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1625099472777.png" width="400px" />
