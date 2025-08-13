@@ -50,7 +50,7 @@ Gosto de transformar ideias em código e acredito que tecnologia boa é aquela q
 - 🎯 Experiência em desenvolvimento full stack  
 - 🎶 Apaixonado por música, academia e games (principalmente co-op ou um terrorzinho leve 😅)  
 - 💬 Aberto a trocas de ideias e colaborações  
-- 📄 [Meu currículo](https://drive.google.com/file/d/1azVO8-rQrVCiSzsmgFIJ3PigbShBikNN/view?usp=sharing)  
+- 📄 [Meu currículo](https://drive.google.com/file/d/1XGn_GGVfIVrppijiI-US7vzu0xs_3XEz/view?usp=drive_link)  
 - 🌐 [Meu portfólio interativo](https://my-interative-portfolio.vercel.app/)  
 
 ---
