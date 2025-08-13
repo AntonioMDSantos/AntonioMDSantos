@@ -46,8 +46,9 @@
     Me chamo <b> Antonio Medeiros </b>.
     </p>
     <p align="left">
-  Atualmente moro em Jacareí/SP <br/>
- Sou formado em Análise e desenvolvimento de sistemas (2022). E sou um desenvolvedor apaixonado por tecnologias. Atualmente, estou me concentrando no desenvolvimento com Vue e Node, mas também possuo experiência em outras tecnologias como JavaScript, Git e HTML/CSS, Flutter e .Net. Em meu tempo livre, eu gosto de colocar em prática meus conhecimentos através de projetos pessoais e colaborar em projetos open-source. Se você estiver interessado em ver o que eu já fiz, dê uma olhada no meu GitHub. Lá você encontrará meus projetos mais recentes e minhas contribuições para a comunidade de desenvolvimento.
+ Atualmente moro em Jacareí/SP e sou um desenvolvedor full stack. Hoje, meu foco está em criar soluções com Vue e Laravel, mas também já me aventurei (e sobrevivi) em outros mares como Flutter, .NET, entre outras.
+No meu tempo livre, gosto de transformar ideias em código — afinal, tecnologia boa é aquela que é compartilhada.
+Se quiser conhecer meus projetos e ver no que ando trabalhando, é só dar um pulo no meu GitHub. Lá tem de tudo: de experimentos curiosos a soluções prontas para produção 
   </p>
   
 ## Meus interesses pessoais
