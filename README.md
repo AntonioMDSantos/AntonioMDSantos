@@ -1,10 +1,6 @@
-<div align="center">    
-  <img src="https://komarev.com/ghpvc/?username=AntonioMDSantos" alt="Antonio Medeiros" />    
-</div>         
+      
 
-<div align="center">
-  <img src="https://media.tenor.com/8fBJbQU7lwoAAAAj/welcome-text.gif" style="width: 30vh">
-</div>
+
 
 <br><br>
 
@@ -36,22 +32,23 @@
 </h1>
 
 <p align="center">
-Sou <b>Antonio Medeiros</b>, desenvolvedor full stack de <b>Jacareí/SP</b>.  
-Meu foco atual é criar soluções modernas com <b>Vue</b> e <b>Laravel</b>, mas também tenho experiência com <b>Flutter</b>, <b>.NET</b> e outras tecnologias.  
-Gosto de transformar ideias em código e acredito que tecnologia boa é aquela que é compartilhada. 🚀
+  <b>Software Engineer | Full Stack Specialist</b><br>
+  Transformando desafios complexos em soluções elegantes e escaláveis com <b>Vue.js</b> e <b>Laravel</b>.<br>
+  Localizado em <b>Jacareí/SP</b>, mas conectando ideias globalmente através do código. 🚀
 </p>
 
 ---
 ## 💡 Sobre mim
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1625099472777.png" width="400px" />
+<img align="right" alt="Octocat Senior" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1625099472777.png" width="320px" />
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-- 🎯 Experiência em desenvolvimento full stack  
-- 🎶 Apaixonado por música, academia e games (principalmente co-op ou um terrorzinho leve 😅)  
-- 💬 Aberto a trocas de ideias e colaborações  
-- 📄 [Meu currículo](https://drive.google.com/file/d/1XGn_GGVfIVrppijiI-US7vzu0xs_3XEz/view?usp=drive_link)  
-- 🌐 [Meu portfólio interativo](https://my-interative-portfolio.vercel.app/)  
+- 🧠 **Engenharia de Software:** Formado em ADS, com foco em arquiteturas sólidas e código limpo.
+- 🛠 **Multistack:** Ampla vivência em ecossistemas **Full Stack**, transitando com agilidade entre **.NET**, **Java** e **Flutter**.
+- 🤝 **Colaboração:** Acredito no poder do open-source e na mentoria técnica. Sempre pronto para um bom code review.
+- 🎮 **Offline Life:** Quando não estou deployando, estou na academia, ouvindo música ou sobrevivendo a algum jogo de terror (com gritos moderados 😅).
+
+- 📄 **[Acesse meu Currículo](https://drive.google.com/file/d/1bmnTOznNK-oqZaIsT7ITrzEieb6ovSl5/view?usp=sharing)**
+- 🌐 **[Explore meu Portfólio Interativo](https://my-interative-portfolio.vercel.app/)**
 
 ---
 
