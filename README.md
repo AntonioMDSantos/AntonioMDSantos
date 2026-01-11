@@ -18,7 +18,7 @@ const antonio = {
     agile: ["Jira", "Azure DevOps"],
     versionControl: ["Git", "GitHub", "GitLab"]
   },
-  currentChallenge: "Otimizando fluxos complexos de emissão de passagens aéreas e sistemas logísticos escaláveis"
+  currentChallenge: "Otimizando fluxos complexos e sistemas logísticos escaláveis"
 }
 ```
 
