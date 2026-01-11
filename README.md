@@ -5,7 +5,7 @@
 ```javascript
 const antonio = {
   pronouns: "he" | "him",
-  role: "Full Stack Developer Specialist",
+  role: "Full Stack Developer PL",
   code: [Javascript, Typescript, PHP, "C#", Dart, HTML, CSS],
   tools: [Vue, Laravel, Nuxt, Flutter, ".NET", Tailwind, Vuetify, Tailwind],
   database: [PostgreSQL, MySQL],
